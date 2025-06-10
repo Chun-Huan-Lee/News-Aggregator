@@ -166,11 +166,11 @@ HTML Export ← Content Formatting ← Clean Text Processing
 
 ```
 News-Aggregator/
-├── News_Aggregator.py   # Main application file (632 lines)
-├── BBC_Logo.png         # BBC branding image (3.1KB)
-├── ABC_Logo.png         # ABC branding image (28KB)
-├── Background.png       # Application background (5.4MB)
-├── bbc_news.html        # Sample HTML export (7.1KB)
+├── News_Aggregator.py   # Main application file
+├── BBC_Logo.png         # BBC branding image
+├── ABC_Logo.png         # ABC branding image
+├── Background.png       # Application background
+├── bbc_news.html        # Sample HTML export
 └── README.md            # This documentation file
 ```
 
