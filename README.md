@@ -228,17 +228,13 @@ The application includes built-in error handling for:
 ### Academic Integrity
 This project represents original individual work completed in accordance with QUT's Academic Integrity policies (Manual of Policies and Procedures, Section C/5.3).
 
-## 👨‍💻 Author
-
-**Chun-Huan Lee**   
-From: Queensland University of Technology  
-
 ---
 
 ## 📄 License
 
 This project is developed for educational purposes as part of QUT's ITD104 coursework. All code is subject to academic integrity policies and is not intended for commercial use.
 
----
+## 👨‍💻 Author
 
-*This documentation was generated to provide comprehensive information about the News Aggregator application. For technical support or questions, please refer to the course materials or contact the instructor.* 
+**Chun-Huan Lee**   
+From: Queensland University of Technology  
