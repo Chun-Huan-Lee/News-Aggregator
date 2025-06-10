@@ -241,7 +241,7 @@ This project represents original individual work completed in accordance with QU
 
 ## 📄 License
 
-This project is developed for educational purposes as part of QUT's ITD104 coursework. All code is subject to academic integrity policies and is not intended for commercial use.
+This project is developed for educational purposes as part of QUT's coursework. All code is subject to academic integrity policies and is not intended for commercial use.
 
 ---
 
