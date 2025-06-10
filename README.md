@@ -245,4 +245,4 @@ This project is developed for educational purposes as part of QUT's coursework. 
 
 ---
 
-*Author: *[Chun-Huan Lee](https://github.com/Chun-Huan-Lee)* / From: Queensland University of Technology (QUT)*
+*Author: *[Chun-Huan Lee](https://github.com/Chun-Huan-Lee)*
