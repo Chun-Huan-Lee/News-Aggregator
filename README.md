@@ -8,17 +8,16 @@
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technical Architecture](#technical-architecture)
-- [Project Structure](#project-structure)
-- [Dependencies](#dependencies)
-- [Development](#development)
-- [Academic Information](#academic-information)
-- [Author](#author)
+- [Overview](#-overview)
+- [Features](#-features)
+- [Screenshots](#-screenshots)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Technical Architecture](#%EF%B8%8F-technical-architecture)
+- [Project Structure](#-project-structure)
+- [Dependencies](#-dependencies)
+- [Development](#%EF%B8%8F-development)
+- [Academic Information](#-academic-information)
 
 ## 🎯 Overview
 
