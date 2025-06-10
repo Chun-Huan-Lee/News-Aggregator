@@ -62,7 +62,17 @@ The application fetches live RSS feeds, parses XML content, and presents news in
 
 ## 📸 Screenshots
 
-> *Application interface showing news feed selection and summary display*
+<details>
+<summary><strong>GUI View</strong></summary>
+
+![GUI Screenshot](/project-screenshot1.png)
+</details>
+
+<details>
+<summary><strong>Export to HTML View</strong></summary>
+
+![HTML Screenshot](project-screenshot2.png)
+</details>
 
 ## 🚀 Installation
 
