@@ -234,7 +234,6 @@ This project represents original individual work completed in accordance with QU
 
 This project is developed for educational purposes as part of QUT's ITD104 coursework. All code is subject to academic integrity policies and is not intended for commercial use.
 
-## 👨‍💻 Author
+---
 
-**Chun-Huan Lee**   
-From: Queensland University of Technology  
+*Author: *[Chun-Huan Lee](https://github.com/Chun-Huan-Lee)* / From: Queensland University of Technology (QUT)*
